@@ -31,3 +31,6 @@ The GA-optimized fuzzy controller demonstrated improved survivability and task p
 - Multi-objective fitness optimization
 - Adaptive rule learning
 - Hybrid neuro-fuzzy extensions
+
+Reference:
+- Thales Group's Kessler Game: https://github.com/ThalesGroup/kessler-game
